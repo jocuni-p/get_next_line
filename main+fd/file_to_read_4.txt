@@ -1,0 +1,18 @@
+ Capítulo III Parte obligatoria
+ Nombre de fun- ción
+Prototipo Archivos a entre- gar
+Parámetros Valor devuelto
+Funciones autor- izadas Descripción
+get_next_line
+char *get_next_line(int fd);
+get_next_line.c, get_next_line_utils.c, get_next_line.h
+fd: File descriptor del que leer
+Si todo va bien: la línea leída
+En caso de fallo o si la lectura termina: NULL read, malloc, free
+Escribe una función que devuelva la línea leída de
+un file descriptor
+       
+
+	
+			
+    	
